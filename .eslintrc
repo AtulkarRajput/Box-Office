@@ -25,6 +25,7 @@
     "arrow-body-style": [0],
     "prefer-arrow-callback": [0],
     "react/react-in-jsx-scope": "off",
-    "react/function-component-definition": "off"
+    "react/function-component-definition": "off",
+    "no-console": [0]
   }
 }
